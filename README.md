@@ -4,7 +4,7 @@ Evidence-grounded document assistant. Upload PDFs, ask questions, and every clai
 
 Built for LovHack Season 3.
 
-**Live demo:** https://YOUR-APP-LINK.streamlit.app
+**Live demo:** https://trustrag-aauwsse8czfvydqpr9ucqb.streamlit.app/
 
 ## The problem
 AI chatbots give confident answers, but when you study from a long PDF you cannot tell which sentences are really in the document. TrustRAG shows its proof.
